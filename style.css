@@ -136,5 +136,17 @@ button {
         width: 290px;
     }
 }
+.register {
+    background: white;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
 
+}
+
+
+.register p {
+    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid pi;
+}
 
